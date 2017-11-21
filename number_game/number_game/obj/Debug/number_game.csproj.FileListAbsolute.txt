@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\number_game\number_game\bin\Debug\number_game.exe.config
+c:\users\user\documents\visual studio 2015\Projects\number_game\number_game\obj\Debug\number_game.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\number_game\number_game\bin\Debug\number_game.exe
+c:\users\user\documents\visual studio 2015\Projects\number_game\number_game\bin\Debug\number_game.pdb
+c:\users\user\documents\visual studio 2015\Projects\number_game\number_game\obj\Debug\number_game.exe
+c:\users\user\documents\visual studio 2015\Projects\number_game\number_game\obj\Debug\number_game.pdb
