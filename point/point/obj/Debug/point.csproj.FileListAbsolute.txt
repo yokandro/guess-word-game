@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\point\point\bin\Debug\point.exe.config
+c:\users\user\documents\visual studio 2015\Projects\point\point\bin\Debug\point.exe
+c:\users\user\documents\visual studio 2015\Projects\point\point\bin\Debug\point.pdb
+c:\users\user\documents\visual studio 2015\Projects\point\point\obj\Debug\point.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\point\point\obj\Debug\point.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\point\point\obj\Debug\point.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\point\point\obj\Debug\point.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\point\point\obj\Debug\point.exe
+c:\users\user\documents\visual studio 2015\Projects\point\point\obj\Debug\point.pdb
